@@ -1,0 +1,13 @@
+#back_btn {
+  color: #339933;
+  text-decoration: none;
+}
+
+#back_btn:hover {
+  text-decoration: underline;
+}
+
+.member_card {
+  margin-right: auto;
+  margin-left: auto;
+}
