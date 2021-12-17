@@ -1,8 +1,13 @@
 ## Deployment
 
-- Copy the repository
-- In your terminal, cd to the folder directory
+- Copy the remote repository
+- Open terminal
+- Change the current working directory to your preferred one
 - Follow these commands accordingly:
+
+```bash
+git clone <REMOTE_URL>
+```
 
 ```bash
 npm install
